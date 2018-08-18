@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
 
 stage('Build') {
-  echo 'Hello World!'
+  echo "Hello from Ricardo's Jenkins at richsanram.com"
 }
